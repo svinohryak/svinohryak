@@ -1,7 +1,7 @@
 ### Hi there, I'm Aleksandr Shcheglov 👋
 #### Front-end Developer 
 
-I'm a professional front-end developer. I love working on hard and interesting tasks and getting into new technologies. I have 7 months of experience working in a team in accordance with Agile practices and I believe that communication is crucial in our job as it allows us to adapt to changes and come up with more accurate estimations. 
+I'm a professional front-end developer. I love working on hard and interesting tasks and getting into new technologies. I have 7 months of experience working in a team in accordance with Agile practices and I believe that communication is crucial in our job as it allows us to adapt to changes and come up with more accurate estimations. I also mentored beginner developers and helped them get up to speed with the project. Took an active part in improving UX. 
 
 ## Skills
 
